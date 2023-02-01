@@ -1,0 +1,14 @@
+span {
+    text-decoration: none;
+    color: blue;
+}
+
+  span:hover {
+    color: rgb(61, 61, 250);
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  span:active {
+    color: blue;
+  }
